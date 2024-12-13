@@ -3,6 +3,7 @@ const { initBrowser } = require('./src/browser');
 const { navigateToHome, setPincode } = require('./src/actions');
 const { scrapeBanners } = require('./src/ocr');
 const { scrollUntilNoNewProducts, processProducts, getProductsOnPage } = require('./src/products');
+require('dotenv').config();
 
 (async () => {
     let browser;
@@ -11,12 +12,11 @@ const { scrollUntilNoNewProducts, processProducts, getProductsOnPage } = require
         browser = br;
     
         await navigateToHome(page);
-    
-        const newPincode = '110001';
-        const platform = "bigbasket";
-        const category = "atta-flours-sooji"
-        const demography = {"age_group":"25-30", "gender":"Male"}
-        const categoryUrl = 'https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/';
+        const newPincode = process.env.NEW_PINCODE;
+        const platform = process.env.PLATFORM;
+        const category = process.env.CATEGORY;
+        const demography = JSON.parse(process.env.DEMOGRAPHY); // Parse the JSON string
+        const categoryUrl = process.env.CATEGORY_URL;
         await setPincode(page, newPincode);
     
         const ads = await scrapeBanners(page);

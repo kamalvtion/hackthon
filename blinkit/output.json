@@ -30,14 +30,6 @@
         "discount": "10%",
         "stock": "In Stock",
         "sponsored": true
-      },
-      {
-        "productName": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta (10 kg)",
-        "brandName": "Fortune Chakki",
-        "price": "469",
-        "discount": "0%",
-        "stock": "In Stock",
-        "sponsored": true
       }
     ],
     "products": [
@@ -58,36 +50,50 @@
       {
         "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida)",
         "brandName": "Whole Farm",
-        "price": "401",
-        "discount": "16%",
+        "price": "400",
+        "discount": "17%",
         "stock": "In Stock"
       },
       {
         "productName": "Aashirvaad 100% MP Sharbati Atta",
         "brandName": "Aashirvaad 100%",
-        "price": "293",
-        "discount": "19%",
+        "price": "291",
+        "discount": "13%",
         "stock": "In Stock"
       },
       {
         "productName": "Aashirvaad Multigrain Atta",
         "brandName": "Aashirvaad Multigrain",
-        "price": "338",
-        "discount": "7%",
+        "price": "316",
+        "discount": "13%",
         "stock": "In Stock"
       },
       {
         "productName": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta",
         "brandName": "Fortune Chakki",
-        "price": "225",
-        "discount": "2%",
+        "price": "211",
+        "discount": "8%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida)",
+        "brandName": "Whole Farm",
+        "price": "192",
+        "discount": "34%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta (10 kg)",
+        "brandName": "Fortune Chakki",
+        "price": "448",
+        "discount": "4%",
         "stock": "In Stock"
       },
       {
         "productName": "Aashirvaad 100% MP Sharbati Atta (10 kg)",
         "brandName": "Aashirvaad 100%",
-        "price": "647",
-        "discount": "9%",
+        "price": "575",
+        "discount": "19%",
         "stock": "In Stock"
       },
       {
@@ -154,16 +160,16 @@
         "stock": "In Stock"
       },
       {
-        "productName": "Sharma Ji Ka Aata Chemical Free Atta",
-        "brandName": "Sharma Ji",
-        "price": "272",
-        "discount": "35%",
+        "productName": "Whole Farm Chakki Atta + Premium Sooji/Rava Combo",
+        "brandName": "Whole Farm",
+        "price": "222",
+        "discount": "33%",
         "stock": "In Stock"
       },
       {
-        "productName": "Sharma Ji Ka Aata - Wheat Atta",
+        "productName": "Sharma Ji Ka Aata Chemical Free Atta",
         "brandName": "Sharma Ji",
-        "price": "215",
+        "price": "272",
         "discount": "35%",
         "stock": "In Stock"
       },
@@ -175,10 +181,24 @@
         "stock": "In Stock"
       },
       {
-        "productName": "Whole Farm Premium Sharbati Atta + Whole Farm Grocery Sugar (Packet) Combo",
+        "productName": "Sharma Ji Ka Aata - Wheat Atta",
+        "brandName": "Sharma Ji",
+        "price": "215",
+        "discount": "35%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta + Premium Maida/Refined Wheat Flour Combo",
         "brandName": "Whole Farm",
-        "price": "282",
-        "discount": "24%",
+        "price": "217",
+        "discount": "35%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta + Premium Maida/Refined Wheat Flour + Premium Sooji/Rava Combo",
+        "brandName": "Whole Farm",
+        "price": "250",
+        "discount": "33%",
         "stock": "In Stock"
       },
       {
@@ -186,6 +206,13 @@
         "brandName": "Sugar Watchers",
         "price": "139",
         "discount": "18%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Premium Sharbati Atta + Whole Farm Grocery Sugar (Packet) Combo",
+        "brandName": "Whole Farm",
+        "price": "282",
+        "discount": "24%",
         "stock": "In Stock"
       },
       {
@@ -231,20 +258,6 @@
         "stock": "In Stock"
       },
       {
-        "productName": "Nutty Yogi Gluten Free Missi Atta",
-        "brandName": "Nutty Yogi",
-        "price": "258",
-        "discount": "13%",
-        "stock": "In Stock"
-      },
-      {
-        "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida)",
-        "brandName": "Whole Farm",
-        "price": "191",
-        "discount": "34%",
-        "stock": "Out Of Stock"
-      },
-      {
         "productName": "Pansari MP Sharbati Atta",
         "brandName": "Pansari MP",
         "price": "63",
@@ -268,29 +281,8 @@
       {
         "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida) + Premium Cold Pressed Mustard Oil Combo",
         "brandName": "Whole Farm",
-        "price": "360",
+        "price": "361",
         "discount": "38%",
-        "stock": "Out Of Stock"
-      },
-      {
-        "productName": "Whole Farm Chakki Atta + Premium Sooji/Rava Combo",
-        "brandName": "Whole Farm",
-        "price": "221",
-        "discount": "33%",
-        "stock": "Out Of Stock"
-      },
-      {
-        "productName": "Whole Farm Chakki Atta + Premium Maida/Refined Wheat Flour Combo",
-        "brandName": "Whole Farm",
-        "price": "216",
-        "discount": "35%",
-        "stock": "Out Of Stock"
-      },
-      {
-        "productName": "Whole Farm Chakki Atta + Premium Maida/Refined Wheat Flour + Premium Sooji/Rava Combo",
-        "brandName": "Whole Farm",
-        "price": "249",
-        "discount": "33%",
         "stock": "Out Of Stock"
       },
       {
@@ -305,6 +297,13 @@
         "brandName": "Organic Tattva",
         "price": "75",
         "discount": "0%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Nutty Yogi Gluten Free Missi Atta",
+        "brandName": "Nutty Yogi",
+        "price": "258",
+        "discount": "13%",
         "stock": "Out Of Stock"
       },
       {
