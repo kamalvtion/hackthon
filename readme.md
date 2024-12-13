@@ -59,7 +59,7 @@ To run the Big Basket scraper, follow these steps:
    ```bash
    node main.js
    ```
-
+    See the output.json for results
 ### Running the Blinkit Scraper
 
 To run the Blinkit scraper, follow these steps:
@@ -78,6 +78,8 @@ To run the Blinkit scraper, follow these steps:
    ```bash
    node main.js
    ```
+
+   See the output.json for results
 
 ## Notes
 
