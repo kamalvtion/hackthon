@@ -1,0 +1,319 @@
+{
+  "platform": "blinkit",
+  "category": "atta",
+  "location": "110001",
+  "demographic": {
+    "age_group": "25-30",
+    "gender": "Male"
+  },
+  "data": {
+    "ads": [
+      {
+        "type": "banner",
+        "content": "Orde Now ENO. S81",
+        "link": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/layout-engine/2023-07/pharmacy-WEB.jpg"
+      },
+      {
+        "type": "banner",
+        "content": "Pet Care supplies minutes Food, treats, toys more",
+        "link": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/layout-engine/2023-07/Pet-Care_WEB.jpg"
+      },
+      {
+        "type": "banner",
+        "content": "time for diaper run Get baby care LIS essentials minutes",
+        "link": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=720/layout-engine/2023-03/babycare-WEB.jpg"
+      },
+      {
+        "productName": "Aashirvaad 0% Maida, 100% M.P. Chakki Atta",
+        "brandName": "Aashirvaad 0%",
+        "price": "494",
+        "discount": "10%",
+        "stock": "In Stock",
+        "sponsored": true
+      },
+      {
+        "productName": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta (10 kg)",
+        "brandName": "Fortune Chakki",
+        "price": "469",
+        "discount": "0%",
+        "stock": "In Stock",
+        "sponsored": true
+      }
+    ],
+    "products": [
+      {
+        "productName": "Aashirvaad Shudh Chakki Whole Wheat Atta (5 kg)",
+        "brandName": "Aashirvaad Shudh",
+        "price": "245",
+        "discount": "3%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad Shudh Chakki Whole Wheat Atta (10 kg)",
+        "brandName": "Aashirvaad Shudh",
+        "price": "437",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida)",
+        "brandName": "Whole Farm",
+        "price": "401",
+        "discount": "16%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad 100% MP Sharbati Atta",
+        "brandName": "Aashirvaad 100%",
+        "price": "293",
+        "discount": "19%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad Multigrain Atta",
+        "brandName": "Aashirvaad Multigrain",
+        "price": "338",
+        "discount": "7%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta",
+        "brandName": "Fortune Chakki",
+        "price": "225",
+        "discount": "2%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad 100% MP Sharbati Atta (10 kg)",
+        "brandName": "Aashirvaad 100%",
+        "price": "647",
+        "discount": "9%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad Multigrain Atta",
+        "brandName": "Aashirvaad Multigrain",
+        "price": "589",
+        "discount": "18%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Vikram Mills Fresh Chakki Atta",
+        "brandName": "Vikram Mills",
+        "price": "207",
+        "discount": "11%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad 0% Maida, 100 % M.P. Chakki Atta",
+        "brandName": "Aashirvaad 0%",
+        "price": "257",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Patanjali Whole Wheat Chakki Atta (with Bran) 5 kg",
+        "brandName": "Patanjali Whole",
+        "price": "233",
+        "discount": "2%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Patanjali Traditional Whole Wheat Chakki Atta (with Bran)",
+        "brandName": "Patanjali Traditional",
+        "price": "401",
+        "discount": "6%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Pillsbury Multigrain Atta",
+        "brandName": "Pillsbury Multigrain",
+        "price": "297",
+        "discount": "16%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Vikram Mills Fresh Chakki Atta",
+        "brandName": "Vikram Mills",
+        "price": "423",
+        "discount": "2%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Pansari Multigrain Atta",
+        "brandName": "Pansari Multigrain",
+        "price": "299",
+        "discount": "46%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Premium Sharbati Atta",
+        "brandName": "Whole Farm",
+        "price": "236",
+        "discount": "24%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sharma Ji Ka Aata Chemical Free Atta",
+        "brandName": "Sharma Ji",
+        "price": "272",
+        "discount": "35%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sharma Ji Ka Aata - Wheat Atta",
+        "brandName": "Sharma Ji",
+        "price": "215",
+        "discount": "35%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "24 Mantra Organic Whole Wheat Atta",
+        "brandName": "24 Mantra",
+        "price": "340",
+        "discount": "14%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Premium Sharbati Atta + Whole Farm Grocery Sugar (Packet) Combo",
+        "brandName": "Whole Farm",
+        "price": "282",
+        "discount": "24%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sugar Watchers 7-Grain Low GI Atta",
+        "brandName": "Sugar Watchers",
+        "price": "139",
+        "discount": "18%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "The Better Flour Fibre Forward Blend Atta",
+        "brandName": "The Better",
+        "price": "112",
+        "discount": "30%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Aashirvaad Organic Atta",
+        "brandName": "Aashirvaad Organic",
+        "price": "330",
+        "discount": "16%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Tattva Wheat Organic Atta 5 kg",
+        "brandName": "Organic Tattva",
+        "price": "311",
+        "discount": "22%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Amul Organic Atta (Whole Wheat)",
+        "brandName": "Amul Organic",
+        "price": "65",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Praakritik Organic Khapli Wheat Atta",
+        "brandName": "Praakritik Organic",
+        "price": "742",
+        "discount": "12%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Safe Harvest Wheat Pesticide Free Atta",
+        "brandName": "Safe Harvest",
+        "price": "364",
+        "discount": "5%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Nutty Yogi Gluten Free Missi Atta",
+        "brandName": "Nutty Yogi",
+        "price": "258",
+        "discount": "13%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida)",
+        "brandName": "Whole Farm",
+        "price": "191",
+        "discount": "34%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Pansari MP Sharbati Atta",
+        "brandName": "Pansari MP",
+        "price": "63",
+        "discount": "22%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Pillsbury Chakki Fresh Atta -10 Kg",
+        "brandName": "Pillsbury Chakki",
+        "price": "408",
+        "discount": "14%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Sharma Ji Ka Aata Multigrain Atta",
+        "brandName": "Sharma Ji",
+        "price": "264",
+        "discount": "35%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta (100% Atta, 0% Maida) + Premium Cold Pressed Mustard Oil Combo",
+        "brandName": "Whole Farm",
+        "price": "360",
+        "discount": "38%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta + Premium Sooji/Rava Combo",
+        "brandName": "Whole Farm",
+        "price": "221",
+        "discount": "33%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta + Premium Maida/Refined Wheat Flour Combo",
+        "brandName": "Whole Farm",
+        "price": "216",
+        "discount": "35%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Whole Farm Chakki Atta + Premium Maida/Refined Wheat Flour + Premium Sooji/Rava Combo",
+        "brandName": "Whole Farm",
+        "price": "249",
+        "discount": "33%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Lo! Foods Ultra Low Carb Keto Atta (Contains Almond flour)",
+        "brandName": "Lo! Foods",
+        "price": "285",
+        "discount": "11%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Organic Tattva Wheat Organic Atta 1 kg",
+        "brandName": "Organic Tattva",
+        "price": "75",
+        "discount": "0%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "24 Mantra Organic 7 Grain Atta",
+        "brandName": "24 Mantra",
+        "price": "104",
+        "discount": "5%",
+        "stock": "Out Of Stock"
+      }
+    ]
+  }
+}

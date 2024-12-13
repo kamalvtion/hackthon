@@ -1,0 +1,679 @@
+{
+  "platform": "bigbasket",
+  "category": "atta-flours-sooji",
+  "location": "110001",
+  "demographic": {
+    "age_group": "25-30",
+    "gender": "Male"
+  },
+  "data": {
+    "ads": [
+      {
+        "type": "banner",
+        "content": "Home Care NEEREr eroes lave, Grr. suf TEAL",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/IBBN-SB111814265-28017.png?tr=w-1600,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "pois pal ALDOR FOR DAYS",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/IBBN-SB111814265-28018.jpg?tr=w-1600,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "pears Elevate Your Shower Experience jo. oo. Eee Less",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/IBBN-SB111814265-28020.jpg?tr=w-1600,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "ook sinh Bor EMEC EOE pee",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/IBBN-SB111814265-28019.jpg?tr=w-1600,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "Dove Dove Nourish, Flourish, Repeat lgV",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/IBBN-SB111814265-28022.jpg?tr=w-1600,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "EGGS, MEAT AND FISH",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_01.png?tr=w-190,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "NEUPASS",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_02.png?tr=w-190,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "AYURVEDA",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_03.png?tr=w-190,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "BUY MORE SAVE MORE",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_04.png?tr=w-190,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "DEALS THE WEEK",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_05.png?tr=w-190,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "COMBO STORE",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_06.png?tr=w-190,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "Protein Powerup Supplements make alien gon your workouts hig iiigvl cer, 507% oFF EEL",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_health_suppliment_250923_400.jpg?tr=w-1130,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "Gentle Baby MustHaves Diaper, Baby Powder more. ere upto 40% EEE hss XLYH CID",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250923_400.jpg?tr=w-1130,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "phe Furbaby Feasts Yummy food keep your pets healthy. Rape upTo 50% OFF Ede, CTD",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250923_400.jpg?tr=w-1130,q-80"
+      },
+      {
+        "type": "banner",
+        "content": "Tea Time Bakes Bakery, Cakes more. Gow Pak upto 50% oFF wed CID",
+        "link": "https://www.bigbasket.com/media/uploads/banner_images/hp_bcd_m_bcd_250923_400.jpg?tr=w-1130,q-80"
+      },
+      {
+        "productName": "Besan Fine/Barik - 100% Chana Dal Besan",
+        "brandName": "bb Royal",
+        "price": "59",
+        "discount": "29%",
+        "stock": "In Stock",
+        "sponsored": true
+      }
+    ],
+    "products": [
+      {
+        "productName": "Shudh Chakki Atta",
+        "brandName": "Aashirvaad",
+        "price": "436",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Select Sharbati Atta",
+        "brandName": "Aashirvaad",
+        "price": "305",
+        "discount": "16%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Atta - With Multigrains",
+        "brandName": "Aashirvaad",
+        "price": "642.6",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Besan",
+        "brandName": "Rajdhani",
+        "price": "121",
+        "discount": "28%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "MP Sharbati Whole Wheat Atta",
+        "brandName": "bb Royal",
+        "price": "475",
+        "discount": "27%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Wheat Flour/ Chakki Atta - Fortified",
+        "brandName": "bb Royal",
+        "price": "404",
+        "discount": "27%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Multigrain Atta",
+        "brandName": "bb Royal",
+        "price": "519",
+        "discount": "20%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Chakki Fresh Atta",
+        "brandName": "Fortune",
+        "price": "229",
+        "discount": "7%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Fine Besan",
+        "brandName": "Tata Sampann",
+        "price": "167.81",
+        "discount": "3%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sooji/Bombay Rava",
+        "brandName": "bb Royal",
+        "price": "65",
+        "discount": "18%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Maida/Refined Wheat Flour",
+        "brandName": "Fortune",
+        "price": "39",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Multigrain Atta - 7 Grain Blend, High Fibre Flour, High Protein Atta",
+        "brandName": "Pillsbury",
+        "price": "299",
+        "discount": "15%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "M.P. Atta",
+        "brandName": "Dinesh Flour Mills",
+        "price": "462.15",
+        "discount": "16%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Besan",
+        "brandName": "Fortune",
+        "price": "127.71",
+        "discount": "33%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic - Maida",
+        "brandName": "bb Royal",
+        "price": "63",
+        "discount": "26%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Traditional Whole Wheat Chakki Atta",
+        "brandName": "Patanjali",
+        "price": "1428",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Suji",
+        "brandName": "Fortune",
+        "price": "39",
+        "discount": "0%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "MP Chakki Atta - 100% Wheat, 0% Maida",
+        "brandName": "Aashirvaad",
+        "price": "548.18",
+        "discount": "7%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Refined Wheat Flour/Maida",
+        "brandName": "bb Royal",
+        "price": "62",
+        "discount": "17%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Wheat Flour/ Chakki Atta",
+        "brandName": "Organic Tattva",
+        "price": "312.42",
+        "discount": "22%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic - Ragi Flour",
+        "brandName": "bb Royal",
+        "price": "79",
+        "discount": "32%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Sooji/Rava",
+        "brandName": "bb Royal",
+        "price": "28",
+        "discount": "38%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Jowar Flour",
+        "brandName": "bb Royal",
+        "price": "46",
+        "discount": "22%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "MP Sharbati Atta - Fibre Rich",
+        "brandName": "PANSARI",
+        "price": "302.56",
+        "discount": "16%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Chakki Fresh Atta - 6 Hours Softness, 100% Atta 0% Maida Soft & Tasty Rotis",
+        "brandName": "Pillsbury",
+        "price": "423.48",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Rice Flour",
+        "brandName": "bb Royal",
+        "price": "29",
+        "discount": "36%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Fresh Chakki Atta",
+        "brandName": "Vikram Mills",
+        "price": "210.9",
+        "discount": "9%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Chana Sattu",
+        "brandName": "Rajdhani",
+        "price": "90.09",
+        "discount": "9%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sarv Uttam Whole Wheat Atta",
+        "brandName": "Dinesh Flour Mills",
+        "price": "420.03",
+        "discount": "9%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Dalia",
+        "brandName": "Patanjali",
+        "price": "33.49",
+        "discount": "1%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Whole Wheat Atta",
+        "brandName": "bb Royal",
+        "price": "269",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Chokar Yukt Whole Wheat Atta",
+        "brandName": "AHAAR",
+        "price": "257.05",
+        "discount": "3%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Barik Sooji",
+        "brandName": "bb Royal",
+        "price": "25",
+        "discount": "38%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Broken Wheat/Daliya",
+        "brandName": "bb Royal",
+        "price": "84",
+        "discount": "26%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Corn Starch",
+        "brandName": "Weikfield",
+        "price": "90",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Besan - Fine",
+        "brandName": "bb Royal",
+        "price": "117",
+        "discount": "29%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Maize Flour/Makka Atta",
+        "brandName": "bb Royal",
+        "price": "36",
+        "discount": "32%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Sooji Ordinary/Bombay Rava",
+        "brandName": "bb SUPER SAVER",
+        "price": "47",
+        "discount": "37%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Chakki Fresh Atta",
+        "brandName": "PANSARI",
+        "price": "237.18",
+        "discount": "7%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Roasted Daliya",
+        "brandName": "AHAAR",
+        "price": "64.95",
+        "discount": "12%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Oats Flour - High Fibre",
+        "brandName": "True Elements",
+        "price": "300",
+        "discount": "25%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Suji",
+        "brandName": "Organic Tattva",
+        "price": "67.5",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Refined Wheat Flour/Maida",
+        "brandName": "bb SUPER SAVER",
+        "price": "59",
+        "discount": "5%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Roasted Sooji - Pesticide Free",
+        "brandName": "Safe Harvest",
+        "price": "60",
+        "discount": "9%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Gold Atta - 100% MP Sharbati Wheat, 12-Hour Softness, High Fibre Atta",
+        "brandName": "Pillsbury",
+        "price": "285",
+        "discount": "15%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Besan Flour",
+        "brandName": "bb Royal",
+        "price": "66",
+        "discount": "13%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sampoorna Chakki Atta",
+        "brandName": "Nature Fresh",
+        "price": "462",
+        "discount": "7%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Wheat Daliya - Pesticide Free",
+        "brandName": "Safe Harvest",
+        "price": "57",
+        "discount": "5%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Corn Flour",
+        "brandName": "bb Royal",
+        "price": "45",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Besan Thick/ Mota - 100% Chana Dal Besan",
+        "brandName": "bb Royal",
+        "price": "134",
+        "discount": "11%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Wheat Dalia",
+        "brandName": "bb Royal",
+        "price": "79",
+        "discount": "1%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Chana Sattu Flour - Roasted Gram Millet, Refreshing Energy",
+        "brandName": "PANSARI",
+        "price": "119",
+        "discount": "15%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Multigrain Dalia",
+        "brandName": "Patanjali",
+        "price": "50",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic - Rice Flour",
+        "brandName": "bb Royal",
+        "price": "66",
+        "discount": "33%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Podi - Puttu",
+        "brandName": "Eastern",
+        "price": "56",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Rice Flour - Pesticide Free",
+        "brandName": "Safe Harvest",
+        "price": "86",
+        "discount": "4%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Organic Whole Wheat Atta",
+        "brandName": "Aashirvaad",
+        "price": "358.98",
+        "discount": "9%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Ragi Flour - Pesticide Free",
+        "brandName": "Safe Harvest",
+        "price": "115",
+        "discount": "4%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Idli Sooji Rava",
+        "brandName": "bb Royal",
+        "price": "68",
+        "discount": "24%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "NatureÃ¢â‚¬â„¢s Super Foods Ragi Flour - Rich In Dietary Fibre, Protein",
+        "brandName": "Aashirvaad",
+        "price": "52.7",
+        "discount": "15%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Barley Dalia",
+        "brandName": "Patanjali",
+        "price": "53.35",
+        "discount": "3%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Kuttu Atta",
+        "brandName": "bb Royal",
+        "price": "103",
+        "discount": "29%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Besan",
+        "brandName": "Patanjali",
+        "price": "75",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Roasted Dalia - Highly Nutritious",
+        "brandName": "Vikram Mills",
+        "price": "33.08",
+        "discount": "25%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Jau/Barley Flour - Balanced Diet",
+        "brandName": "PANSARI",
+        "price": "55.25",
+        "discount": "15%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Singara Flour",
+        "brandName": "bb Royal",
+        "price": "40",
+        "discount": "53%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Oat Bran - High Fibre Delicious Cereal",
+        "brandName": "Bagrrys",
+        "price": "135",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Natureâ€™s Superfoods Gluten Free Flour - Rich In Dietary Fibre, Protein, Magnesium & Iron",
+        "brandName": "Aashirvaad",
+        "price": "202.3",
+        "discount": "15%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Sama/Bhagar Rice",
+        "brandName": "bb Royal",
+        "price": "35",
+        "discount": "30%",
+        "stock": "Out Of Stock"
+      },
+      {
+        "productName": "Bread Crumbs - Plain",
+        "brandName": "American Garden",
+        "price": "325",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "100% Bikaneri Chana Dal Besan",
+        "brandName": "Aashirvaad",
+        "price": "142.2",
+        "discount": "21%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Wheat Bran - High Fibre, Protein, Add To Roti",
+        "brandName": "Bagrrys",
+        "price": "135",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Oats Atta - Made From 100% Whole Grain Oats",
+        "brandName": "Bagrrys",
+        "price": "140",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Bajra Atta - Pesticide Free",
+        "brandName": "Safe Harvest",
+        "price": "52",
+        "discount": "5%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Wheat Dalia - Roasted",
+        "brandName": "Mai Rasoi",
+        "price": "45.9",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Black Chana Flour - Bengal Gram Millet, Gluten-free",
+        "brandName": "PANSARI",
+        "price": "108.8",
+        "discount": "15%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Salty Chana Sattu Healthy Desi Drink Mix",
+        "brandName": "Gm Foods",
+        "price": "61.2",
+        "discount": "10%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Quinoa Flour - Rich In Dietary Fibre",
+        "brandName": "True Elements",
+        "price": "474.5",
+        "discount": "27%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Sattu - Atta",
+        "brandName": "bb Royal",
+        "price": "167",
+        "discount": "27%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Premium Black Wheat Flour",
+        "brandName": "Gm Foods",
+        "price": "240",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Poha Pakora Flour",
+        "brandName": "Gm Foods",
+        "price": "76",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Rice Idli Ready Mix",
+        "brandName": "Gm Foods",
+        "price": "122",
+        "discount": "0%",
+        "stock": "In Stock"
+      },
+      {
+        "productName": "Soya Flour",
+        "brandName": "bb Royal",
+        "price": "65",
+        "discount": "41%",
+        "stock": "In Stock"
+      }
+    ]
+  }
+}
